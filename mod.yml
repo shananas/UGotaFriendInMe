@@ -1,5 +1,6 @@
 title: To Infinity
 originalAuthor: Shananas
+game: kh2
 assets:
 - name: obj/N_EX640_SHOP_RTN.mdlx
   method: copy
